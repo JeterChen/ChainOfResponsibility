@@ -1,0 +1,5 @@
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\FakeDataLibrary\bin\Debug\FakeDataLibrary.dll
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\FakeDataLibrary\bin\Debug\FakeDataLibrary.pdb
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\FakeDataLibrary\obj\Debug\FakeDataLibrary.csprojResolveAssemblyReference.cache
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\FakeDataLibrary\obj\Debug\FakeDataLibrary.dll
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\FakeDataLibrary\obj\Debug\FakeDataLibrary.pdb

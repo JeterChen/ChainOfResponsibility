@@ -1,0 +1,16 @@
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\CorSample\bin\Debug\CorSample.exe.config
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\CorSample\obj\Debug\CorSample.csprojResolveAssemblyReference.cache
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\CorSample\bin\Debug\CorSample.exe
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\CorSample\bin\Debug\CorSample.pdb
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\CorSample\bin\Debug\FakeDataLibrary.dll
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\CorSample\bin\Debug\FakeDataLibrary.pdb
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\CorSample\obj\Debug\CorSample.exe
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\CorSample\obj\Debug\CorSample.pdb
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\CorSample\bin\Debug\CorSample.exe.config
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\CorSample\obj\Debug\CorSample.exe
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\CorSample\obj\Debug\CorSample.pdb
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\CorSample\bin\Debug\CorSample.exe
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\CorSample\bin\Debug\CorSample.pdb
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\CorSample\bin\Debug\FakeDataLibrary.dll
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\CorSample\bin\Debug\FakeDataLibrary.pdb
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\CorSample\obj\Debug\CorSample.csprojResolveAssemblyReference.cache

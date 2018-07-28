@@ -1,0 +1,11 @@
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\OriginalSample\bin\Debug\OriginalSample.exe.config
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\OriginalSample\bin\Debug\OriginalSample.exe
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\OriginalSample\bin\Debug\OriginalSample.pdb
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\OriginalSample\bin\Debug\FakeDataLibrary.dll
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\OriginalSample\bin\Debug\FakeDataLibrary.pdb
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\OriginalSample\obj\Debug\OriginalSample.csprojResolveAssemblyReference.cache
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\OriginalSample\obj\Debug\OriginalSample.exe
+C:\SkillTree\AdvancedDesignPatterns\Samples\ChainOfResponsibility\OriginalSample\obj\Debug\OriginalSample.pdb
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\OriginalSample\bin\Debug\OriginalSample.exe.config
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\OriginalSample\obj\Debug\OriginalSample.exe
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\OriginalSample\obj\Debug\OriginalSample.pdb

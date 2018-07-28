@@ -1,0 +1,6 @@
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\AdvancedDelegateSample\bin\Debug\AdvancedDelegateSample.exe.config
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\AdvancedDelegateSample\bin\Debug\AdvancedDelegateSample.exe
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\AdvancedDelegateSample\bin\Debug\AdvancedDelegateSample.pdb
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\AdvancedDelegateSample\obj\Debug\AdvancedDelegateSample.csprojResolveAssemblyReference.cache
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\AdvancedDelegateSample\obj\Debug\AdvancedDelegateSample.exe
+D:\SkillTree決戰設計模式第三梯\DPSamples\DPSamples\Samples\ChainOfResponsibility\AdvancedDelegateSample\obj\Debug\AdvancedDelegateSample.pdb
